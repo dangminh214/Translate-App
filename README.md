@@ -9,6 +9,7 @@ die "Sprachauswahl der erkennbaren Sprachen". Diese Funktionen werden von einem 
 umschlossen. Obige Funktionen ermöglichen das Konvertieren des erzeugten
 Textes in verschiedene Datenformate, das Erfassen und Erkennen von Sprachen,
 die Verwaltung unterstützter Sprachen sowie eine benutzerfreundliche Schnittstelle zur Bedienung dieser Funktionen.
+- **Anmerkung**: Python 3.12 hat die Module in dieser App noch nicht unterstützt. Bitte verwenden Sie Python 3.11 oder eine niedrigere Version
 
 ### Ziel des Projekts
 Das Ziel des Projekts ist es, eine benutzerfreundliche Lösung zu bieten, um Textdaten in verschiedenen Formaten 
@@ -23,7 +24,7 @@ und eine intuitive Benutzeroberfläche bereitzustellen.
 - **Sprachmodul**: Verwalten der unterstützten Sprachen für die Sprach-zu-Text-Funktionalität.
 - **Benutzerinterface**: Startet und stoppt die Sprachaufzeichnung, zeigt den transkribierten Text an und ermöglicht das 
                          Speichern des Textes in einer Datei.
-- **Anmerkung**: Python 3.12 unterstützt dieses App noch nicht.
+
 
   
 ## Installation
