@@ -23,6 +23,7 @@ und eine intuitive Benutzeroberfläche bereitzustellen.
 - **Sprachmodul**: Verwalten der unterstützten Sprachen für die Sprach-zu-Text-Funktionalität.
 - **Benutzerinterface**: Startet und stoppt die Sprachaufzeichnung, zeigt den transkribierten Text an und ermöglicht das 
                          Speichern des Textes in einer Datei.
+- **Anmerkung**: Python 3.12 unterstützt dieses App noch nicht.
 
   
 ## Installation
